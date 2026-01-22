@@ -1,2 +1,2 @@
-Exercícios e projetinhos feitos na minha primeira semana aprendendo algoritmos e lógica da programação com Python!
+Exercícios e projetinhos feitos no meu primeiro mês estudando algoritmos e lógica da programação com Python!
 Janeiro/2025
