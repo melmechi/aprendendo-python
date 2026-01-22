@@ -1,0 +1,5 @@
+cores = ("rosa","verde","branco")
+lista = list(cores)
+lista.append ("roxo")
+cores = tuple(lista)
+print(cores)
